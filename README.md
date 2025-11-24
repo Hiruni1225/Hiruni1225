@@ -1,4 +1,9 @@
-# 💫 About Me: I Am Hiruni Hapuarachchi
+# 💫 Hiruni Hapuarachchi ⭐ Passionate Software Engineering student
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Coding GIF" width="400" />
+</p>
+
 I am a Software Engineering student at NIBM, Sri Lanka, and currently working as a Software Engineer Intern at SLT-Mobitel. I mainly work with the MERN stack and enjoy building web applications. I am passionate about learning new technologies and improving my skills. I like turning ideas into real projects and gaining practical industry experience. I am focused on growing as a confident and skilled software developer.
 
 
