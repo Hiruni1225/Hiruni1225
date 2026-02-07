@@ -1,185 +1,133 @@
-<!-- ====================== HERO / INTRO ====================== -->
-<h1 align="center">✨ Hiruni Hapuarachchi ✨</h1>
-
-<h3 align="center">
-  Software Engineering Student • MERN Stack Developer • Future Tech Leader 🚀
-</h3>
+<!-- ===================== HERO SECTION ===================== -->
+<h1 align="center">👋 Hi, I'm Nethru Randev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=00E6FE&center=true&vCenter=true&width=700&lines=Building+Real-World+Software+Solutions;MERN+Stack+Developer+%F0%9F%92%BB;Clean+Code+%7C+Scalable+Systems;Learning+Never+Stops+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Gaming+Content+Creator;Turning+Ideas+into+Reality" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="450" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header"/>
 </p>
 
 ---
 
-## 👩‍💻 Who Am I?
+## 🧠 About Me
 
-🎓 **Software Engineering Student** at **NIBM, Sri Lanka**  
-💼 **Software Engineer Intern** at **SLT-Mobitel**  
-🌐 **MERN Stack Specialist**  
-🧠 Curious about **Cloud, AI, and Scalable Systems**
+🎓 **Software Engineering Undergraduate** at **NIBM, Sri Lanka**  
+💻 Passionate about **Full-Stack Development & Modern Technologies**  
+🎮 Gaming Content Creator | Tech Explorer  
+🚀 Always learning, building, and leveling up
 
-I’m passionate about designing and building **real-world software** that is clean, efficient, and user-focused.  
-I enjoy solving problems, learning modern technologies, and turning ideas into **production-ready applications**.
-
-💡 *My mindset:*  
-> Learn deeply • Build boldly • Improve continuously
+I enjoy creating **efficient, scalable, and user-friendly applications**, while also exploring game mechanics, UI/UX, and creative digital content.  
+I believe good software should be **powerful, clean, and enjoyable to use**.
 
 ---
 
-## 🌐 Let’s Connect
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hirunihapuarachchi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Core Expertise
+## 💻 Tech Stack
 
-```txt
-✔ Full-Stack Web Development
-✔ RESTful APIs & Backend Architecture
-✔ Database Design & Optimization
-✔ UI/UX Focused Interfaces
-✔ Cloud & Deployment Basics
-✔ Version Control & Collaboration
-````
-
----
-
-## 🛠️ Tech Stack (Advanced View)
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,kotlin,js,ts,php" />
+### 🧑‍💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,csharp,kotlin,php&perline=9" />
 </p>
 
 ---
 
 ### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=8" />
 </p>
 
-🧩 **Concepts:**
-
-* Responsive Design
-* Component-Driven Architecture
-* State Management
-* Performance Optimization
+✔ Responsive Design  
+✔ Component-Based Architecture  
+✔ Performance-Focused UI  
 
 ---
 
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,dotnet" />
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,dotnet&perline=8" />
 </p>
 
-🧠 **Experience With:**
-
-* REST APIs
-* Authentication & Authorization
-* MVC & Layered Architectures
+✔ RESTful APIs  
+✔ Authentication & Authorization  
+✔ Scalable Systems  
 
 ---
 
-### 🗄️ Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=8" />
 </p>
 
-📊 **Skills:**
-
-* Schema Design
-* Query Optimization
-* Relational & NoSQL Databases
-
 ---
 
-### ☁️ Cloud, Servers & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,nginx,apache" />
+### ☁️ Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,git,github,docker&perline=8" />
 </p>
 
-🚀 **Hands-on With:**
+---
 
-* Hosting & Deployment
-* Environment Configuration
-* Cloud-Based Services
+## 🎮 Interests & Focus Areas
+
+🎯 Software Engineering  
+🎯 Game Development & Game Mechanics  
+🎯 UI/UX Design  
+🎯 Cloud-Based Applications  
+🎯 Content Creation & Digital Media  
 
 ---
 
-### 🤖 AI, Data & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch" />
-</p>
-
-📈 **Exposure To:**
-
-* Data Analysis
-* ML Fundamentals
-* Model Training Basics
-
----
-
-### 🎨 UI / UX & Creative Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
-</p>
-
-🎯 **Focus:**
-
-* Clean Interfaces
-* User-Centered Design
-* Visual Consistency
-
----
-
-### 🔧 Developer Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" />
-</p>
-
-🛠️ **Workflow:**
-
-* Git-based collaboration
-* API Testing
-* Agile-style development
-
----
-
-## 🎯 Currently Working On
-
-* 🔥 Advanced MERN Stack projects
-* 📱 Full-stack & mobile-friendly applications
-* ☁️ Cloud deployment workflows
-* 🤖 Machine Learning foundations
-* 🎨 Polished UI/UX systems
-
----
-
-## 💬 Developer Quote
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NethruRandev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethruRandev&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethruRandev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NethruRandev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NethruRandev&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NethruRandev&icon=5&color=6"/>
 </p>
 
 ---
 
 <p align="center">
-  <b>✨ Code with purpose. Build with passion. Grow without limits. ✨</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=Keep+Building.+Keep+Leveling+Up.&fontSize=20"/>
 </p>
