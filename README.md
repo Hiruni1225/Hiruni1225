@@ -185,14 +185,6 @@ I enjoy solving problems, learning modern technologies, and turning ideas into *
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hiruni1225&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 ## 💬 Developer Quote
 
 <p align="center">
@@ -201,17 +193,7 @@ I enjoy solving problems, learning modern technologies, and turning ideas into *
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hiruni1225&icon=6&color=10"/>
-</p>
-
----
-
 <p align="center">
   <b>✨ Code with purpose. Build with passion. Grow without limits. ✨</b>
 </p>
 ```
-
-Just tell me what vibe you want 😎
