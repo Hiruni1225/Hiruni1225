@@ -172,19 +172,6 @@ I enjoy solving problems, learning modern technologies, and turning ideas into *
 
 ---
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiruni1225&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hiruni1225&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni1225&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 💬 Developer Quote
 
 <p align="center">
@@ -196,4 +183,3 @@ I enjoy solving problems, learning modern technologies, and turning ideas into *
 <p align="center">
   <b>✨ Code with purpose. Build with passion. Grow without limits. ✨</b>
 </p>
-```
