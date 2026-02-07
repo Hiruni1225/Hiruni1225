@@ -1,215 +1,158 @@
-<!-- ====================== HERO / INTRO ====================== -->
-<h1 align="center">✨ Hiruni Hapuarachchi ✨</h1>
-
-<h3 align="center">
-  Software Engineering Student • MERN Stack Developer • Future Tech Leader 🚀
-</h3>
+<!-- ===================== ULTRA HERO ===================== -->
+<h1 align="center">
+  🚀 Hiruni Hapuarachchi
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=00E6FE&center=true&vCenter=true&width=700&lines=Building+Real-World+Software+Solutions;MERN+Stack+Developer+%F0%9F%92%BB;Clean+Code+%7C+Scalable+Systems;Learning+Never+Stops+%F0%9F%94%A5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Software%20Engineer%20in%20the%20Making&fontSize=38&fontAlignY=35&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="450" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Crafting+Elegant+Full-Stack+Solutions;MERN+Stack+Developer+%F0%9F%94%A5;Clean+Architecture+%7C+Modern+UI;Learning%2C+Building%2C+Evolving" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 👩‍💻 Who Am I?
+## 🧬 About Me
 
-🎓 **Software Engineering Student** at **NIBM, Sri Lanka**  
-💼 **Software Engineer Intern** at **SLT-Mobitel**  
-🌐 **MERN Stack Specialist**  
-🧠 Curious about **Cloud, AI, and Scalable Systems**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
-I’m passionate about designing and building **real-world software** that is clean, efficient, and user-focused.  
-I enjoy solving problems, learning modern technologies, and turning ideas into **production-ready applications**.
+🎓 Software Engineering Student @ **NIBM, Sri Lanka**  
+💼 Software Engineer Intern @ **SLT-Mobitel**  
+🌍 Focused on **MERN, Cloud & AI-Driven Systems**
 
-💡 *My mindset:*  
-> Learn deeply • Build boldly • Improve continuously
+I build software that **looks good, scales well, and solves real problems**.  
+Obsessed with clean code, modern UI, and turning ideas into **impactful products**.
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Digital Presence
 
 <p align="center">
   <a href="https://linkedin.com/in/hirunihapuarachchi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00C7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Core Expertise
+## ⚡ Skill Matrix
 
-```txt
-✔ Full-Stack Web Development
-✔ RESTful APIs & Backend Architecture
-✔ Database Design & Optimization
-✔ UI/UX Focused Interfaces
-✔ Cloud & Deployment Basics
-✔ Version Control & Collaboration
-````
-
----
-
-## 🛠️ Tech Stack (Advanced View)
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,kotlin,js,ts,php" />
-</p>
-
----
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-🧩 **Concepts:**
-
-* Responsive Design
-* Component-Driven Architecture
-* State Management
-* Performance Optimization
-
----
-
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,dotnet" />
-</p>
-
-🧠 **Experience With:**
-
-* REST APIs
-* Authentication & Authorization
-* MVC & Layered Architectures
-
----
-
-### 🗄️ Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
-</p>
-
-📊 **Skills:**
-
-* Schema Design
-* Query Optimization
-* Relational & NoSQL Databases
-
----
-
-### ☁️ Cloud, Servers & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,nginx,apache" />
-</p>
-
-🚀 **Hands-on With:**
-
-* Hosting & Deployment
-* Environment Configuration
-* Cloud-Based Services
-
----
-
-### 🤖 AI, Data & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch" />
-</p>
-
-📈 **Exposure To:**
-
-* Data Analysis
-* ML Fundamentals
-* Model Training Basics
-
----
-
-### 🎨 UI / UX & Creative Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
-</p>
-
-🎯 **Focus:**
-
-* Clean Interfaces
-* User-Centered Design
-* Visual Consistency
-
----
-
-### 🔧 Developer Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" />
-</p>
-
-🛠️ **Workflow:**
-
-* Git-based collaboration
-* API Testing
-* Agile-style development
-
----
-
-## 🎯 Currently Working On
-
-* 🔥 Advanced MERN Stack projects
-* 📱 Full-stack & mobile-friendly applications
-* ☁️ Cloud deployment workflows
-* 🤖 Machine Learning foundations
-* 🎨 Polished UI/UX systems
-
----
-
-## 📊 GitHub Performance
-
+### 💻 Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiruni1225&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Hiruni1225&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,kotlin,js,ts,php&perline=9" />
+</p>
+
+### 🌐 Frontend Magic
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni1225&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/antonkomarev/github-profile-views-counter/master/src/assets/icons/eye.svg" width="24"/>
+  Pixel-perfect • Responsive • Animated UI
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
+### ⚙️ Backend Power
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hiruni1225&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,dotnet&perline=8" />
+</p>
+
+- RESTful APIs  
+- Secure Authentication  
+- Scalable Architecture  
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=8" />
 </p>
 
 ---
 
-## 💬 Developer Quote
-
+### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,nginx,apache&perline=8" />
 </p>
 
 ---
 
-## 👀 Profile Views
+### 🤖 AI / Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch&perline=6" />
+</p>
+
+---
+
+## 🧠 Knowledge Areas
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Hiruni1225&icon=6&color=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiruni1225&theme=tokyo-night&hide_border=true" />
+</p>
+
+- Software Architecture  
+- Data Structures & Algorithms  
+- Cloud-Native Thinking  
+- UI/UX Psychology  
+
+---
+
+## 🚧 Current Missions
+
+🚀 Advanced MERN projects  
+☁️ Cloud deployment mastery  
+📱 Mobile-friendly systems  
+🤖 ML fundamentals  
+🎨 Design systems & animations  
+
+---
+
+## 📊 GitHub Power Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiruni1225&show_icons=true&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiruni1225&theme=react&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni1225&layout=compact&theme=react&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievement Showcase
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hiruni1225&theme=matrix&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 💡 Inspiration Engine
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+## 👁️ Profile Energy Meter
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Hiruni1225&icon=7&color=6"/>
 </p>
 
 ---
 
 <p align="center">
-  <b>✨ Code with purpose. Build with passion. Grow without limits. ✨</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=Build+Cool+Things.+Break+Limits.&fontSize=20" />
 </p>
-```
