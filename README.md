@@ -4,19 +4,19 @@
 
 <div align="center">
 
-<!-- Animated Wave Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,11,17,24&height=300&section=header&text=Hiruni%20Hapuarachchi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20MERN%20Stack%20Developer%20•%20Future%20Tech%20Leader&descAlignY=55&descSize=20&descAlign=50"/>
+<!-- Animated Wave Header with Gradient - Feminine Teal/Purple Blend -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,11,17,24,25&height=300&section=header&text=Hiruni%20Hapuarachchi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20MERN%20Stack%20Developer%20•%20SLT-Mobitel%20Intern&descAlignY=55&descSize=20&descAlign=50"/>
 
 </div>
 
 <!-- ============================================ -->
-<!-- DYNAMIC TYPING ANIMATION -->
+<!-- DYNAMIC TYPING ANIMATION - GIRL POWER THEME -->
 <!-- ============================================ -->
 
 <div align="center">
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=00E6FE&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Welcome+to+My+Code+Sanctuary+✨;Building+Real-World+Software+Solutions;MERN+Stack+Specialist+%F0%9F%92%BB;Clean+Code+%7C+Scalable+Systems+%7C+Cloud+Explorer;Learning+Never+Stops+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=✨%20Hi%2C%20I'm%20Hiruni!%20✨;Welcome+to+my+code+sanctuary+%F0%9F%92%BB;MERN+Stack+Developer+%7C+Future+Tech+Leader+%F0%9F%9A%80;Building+real-world+software+with+passion;Clean+code+%7C+Scalable+systems+%7C+Cloud+explorer;Learning+never+stops+%F0%9F%94%A5%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 </div>
@@ -27,23 +27,24 @@
 
 <div align="center">
 
-<!-- Animated Developer Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<!-- Animated Developer Girl Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
 
 <br><br>
 
-<!-- Profile Statistics Badges (Update username) -->
+<!-- Profile Statistics Badges - Updated with Hiruni1225 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiruniHapuarachchi&label=Profile%20Views&color=00E6FE&style=for-the-badge&logo=github&labelColor=1e1e2e" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/HiruniHapuarachchi?label=Followers&style=for-the-badge&color=00E6FE&logo=github&labelColor=1e1e2e" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/HiruniHapuarachchi?label=Total%20Stars&style=for-the-badge&color=00E6FE&logo=github&labelColor=1e1e2e" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Hiruni1225&label=Profile%20Views&color=FF69B4&style=for-the-badge&logo=github&labelColor=1e1e2e" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Hiruni1225?label=Followers&style=for-the-badge&color=FF69B4&logo=github&labelColor=1e1e2e" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Hiruni1225?label=Total%20Stars&style=for-the-badge&color=FF69B4&logo=github&labelColor=1e1e2e" alt="Stars"/>
 </p>
 
-<!-- Enthusiasm Badges -->
-<img src="https://img.shields.io/badge/MERN_Architect-💻-00E6FE?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/Problem_Solver-🧩-00E6FE?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/Open_Source-❤️-00E6FE?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/Always_Learning-📚-00E6FE?style=for-the-badge&labelColor=1e1e2e"/>
+<!-- Enthusiasm Badges - Feminine & Bold -->
+<img src="https://img.shields.io/badge/MERN_Architect-💻-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Problem_Solver-🧩-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Open_Source-❤️-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Always_Learning-📚-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Girl_Who_Codes-👧🏽-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
 
 </div>
 
@@ -54,57 +55,63 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- ABOUT ME - DEVELOPER PROFILE -->
+<!-- ABOUT ME - DEVELOPER PROFILE (GIRL VERSION) -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Who Am I?
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> ✨ Who Am I? ✨
 
 </div>
 
 ```typescript
 class SoftwareEngineer {
+    // Personal
     name: string = "Hiruni Hapuarachchi";
+    username: string = "Hiruni1225";
     location: string = "🇱🇰 Sri Lanka";
     role: string = "Software Engineer Intern @ SLT-Mobitel";
     
+    // Education
     education = {
         institution: "NIBM, Sri Lanka",
         major: "Software Engineering",
+        status: "Undergraduate",
         focus: "Full-Stack Development & Scalable Systems"
     };
     
+    // Core expertise from original README
     expertise: string[] = [
         "MERN Stack (MongoDB, Express.js, React, Node.js)",
         "RESTful API Architecture",
         "Database Design & Optimization",
-        "Cloud Deployment Basics",
-        "UI/UX Focused Interfaces"
+        "UI/UX Focused Interfaces",
+        "Cloud & Deployment Basics",
+        "Version Control & Collaboration"
     ];
     
-    currentMission: string[] = [
-        "Mastering Advanced MERN Patterns",
-        "Diving into Cloud-Native Architecture (AWS/Azure)",
-        "Exploring AI/ML Integration in Web Apps",
-        "Contributing to Open Source",
-        "Building production-ready applications"
+    // Current mission
+    currentFocus: string[] = [
+        "Advanced MERN Stack projects",
+        "Full-stack & mobile-friendly applications",
+        "Cloud deployment workflows",
+        "Machine Learning foundations",
+        "Polished UI/UX systems"
     ];
     
-    lifePhilosophy = {
-        code: "Clean, efficient, maintainable",
-        learn: "Deeply • Build boldly • Improve continuously",
-        balance: "Code, Create, Recharge 🔄",
-        mantra: "Learn deeply, build boldly, improve continuously."
-    };
+    // Mindset - directly from your original
+    mindset: string = "Learn deeply • Build boldly • Improve continuously";
     
+    // Fun facts about YOU
     funFacts = [
-        "I turn ☕️ into code and bugs into features 🐛✨",
-        "My code compiles on the first try... 60% of the time, it works every time 😅",
-        "I believe semicolons are a matter of choice (but I use them anyway)",
-        "Currently accepting JavaScript as my first language 🤝"
+        "I turn ☕️ into code and ☕️ into more code",
+        "I believe semicolons are optional... but I use them anyway 😉",
+        "My code works on the first try... eventually ✨",
+        "SLT-Mobitel intern by day, MERN stack dev by night 🌙",
+        "I don't fix bugs, I create undocumented features 🐛➡️✨"
     ];
     
+    // Your motto
     motto(): string {
         return "Code with purpose. Build with passion. Grow without limits.";
     }
@@ -121,15 +128,15 @@ console.log(hiruni.motto());
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- GITHUB TROPHIES SHOWCASE -->
+<!-- GITHUB TROPHIES SHOWCASE - Hiruni1225 -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Achievement Showcase
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> 🏆 Achievement Showcase
 
-<!-- Replace with your actual trophy case once you have stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=HiruniHapuarachchi&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=2" width="100%" alt="Trophy Stats"/>
+<!-- GitHub Trophy Case - Updated with your username -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hiruni1225&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&row=2" width="100%" alt="Trophy Stats"/>
 
 </div>
 
@@ -140,41 +147,45 @@ console.log(hiruni.motto());
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- PROFESSIONAL JOURNEY -->
+<!-- PROFESSIONAL JOURNEY - DUAL COLUMN -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Journey
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 📌 My Journey
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎓 Student @ NIBM
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40">
+
 **Software Engineering Undergraduate**
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Academic Focus:**
-- 📚 Advanced Web Technologies
-- 🏗️ Software Architecture & Design Patterns
-- 🗄️ Database Management Systems
-- 📊 Data Structures & Algorithms
-- ☁️ Cloud Computing Fundamentals
+📚 **Academic Focus:**
+• Advanced Web Technologies  
+• Software Architecture & Design Patterns  
+• Database Management Systems  
+• Data Structures & Algorithms  
+• Cloud Computing Fundamentals  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 💼 Intern @ SLT-Mobitel
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40">
+
 **Software Engineer Intern**
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Hands-on Experience:**
-- 🌐 Developing internal tools with MERN stack
-- 🔧 Collaborating on full-cycle feature development
-- 📱 Assisting in mobile-responsive web apps
-- 🤝 Agile/Scrum team collaboration
-- 🐛 Debugging, testing, and code reviews
+🌐 **Hands-on Experience:**
+• Developing internal tools with MERN stack  
+• Collaborating on full-cycle feature development  
+• Building mobile-responsive web apps  
+• Agile/Scrum team collaboration  
+• Debugging, testing & code reviews  
 
 </td>
 </tr>
@@ -192,7 +203,7 @@ console.log(hiruni.motto());
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> My Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> 🛠️ My Tech Arsenal
 
 </div>
 
@@ -229,12 +240,12 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282A36"/>
 </p>
 
-**🧩 Concepts Mastered:**
+**🧩 Concepts I Master:**
 <p>
-  <img src="https://img.shields.io/badge/Responsive_Design-00E6FE?style=flat-square&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Component_Driven-00E6FE?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/State_Management-00E6FE?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Performance_Opt-00E6FE?style=flat-square&logo=speedtest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-FF69B4?style=flat-square&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Component_Driven-FF69B4?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State_Management-FF69B4?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance_Optimization-FF69B4?style=flat-square&logo=speedtest&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200">
@@ -262,13 +273,13 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=282A36"/>
 </p>
 
-**🧠 Skills:**
+**🧠 My Skills:**
 <p>
-  <img src="https://img.shields.io/badge/REST_API-00E6FE?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Auth_&_Auth-00E6FE?style=flat-square&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC_Architecture-00E6FE?style=flat-square&logo=model&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Schema_Design-00E6FE?style=flat-square&logo=diagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Query_Optimization-00E6FE?style=flat-square&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF69B4?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth_&_Authorization-FF69B4?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-FF69B4?style=flat-square&logo=model&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Schema_Design-FF69B4?style=flat-square&logo=diagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Query_Optimization-FF69B4?style=flat-square&logo=database&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200">
@@ -291,9 +302,8 @@ console.log(hiruni.motto());
 
 **🚀 Hands-on With:**
 <p>
-  <img src="https://img.shields.io/badge/Hosting_&_Deployment-00E6FE?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD_Basics-00E6FE?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Services-00E6FE?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hosting_&_Deployment-FF69B4?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Services-FF69B4?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200">
@@ -312,9 +322,9 @@ console.log(hiruni.motto());
 
 **📈 Exposure To:**
 <p>
-  <img src="https://img.shields.io/badge/Data_Analysis-00E6FE?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML_Fundamentals-00E6FE?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Model_Training_Basics-00E6FE?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-FF69B4?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML_Fundamentals-FF69B4?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Model_Training_Basics-FF69B4?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="200">
@@ -334,9 +344,9 @@ console.log(hiruni.motto());
 
 **🎯 Focus:**
 <p>
-  <img src="https://img.shields.io/badge/Clean_Interfaces-00E6FE?style=flat-square&logo=adobexd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/User_Centered_Design-00E6FE?style=flat-square&logo=personio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Consistency-00E6FE?style=flat-square&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Interfaces-FF69B4?style=flat-square&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/User_Centered_Design-FF69B4?style=flat-square&logo=personio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Consistency-FF69B4?style=flat-square&logo=adobe&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
@@ -357,9 +367,9 @@ console.log(hiruni.motto());
 
 **🛠️ Workflow:**
 <p>
-  <img src="https://img.shields.io/badge/Git_Based_Collab-00E6FE?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_Testing-00E6FE?style=flat-square&logo=insomnia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile_Style-00E6FE?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git_Based_Collab-FF69B4?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Testing-FF69B4?style=flat-square&logo=insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile_Style-FF69B4?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
 </div>
@@ -376,65 +386,28 @@ console.log(hiruni.motto());
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 📊 GitHub Analytics
 
 </div>
 
-<!-- GitHub Stats Cards -->
+<!-- GitHub Stats Cards - Updated with Hiruni1225 -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HiruniHapuarachchi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FE&icon_color=00E6FE&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HiruniHapuarachchi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E6FE&ring=00E6FE&fire=00E6FE&currStreakLabel=00E6FE&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hiruni1225&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiruni1225&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <!-- Top Languages & Activity Graph -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiruniHapuarachchi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FE&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=HiruniHapuarachchi&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FE&text_color=c9d1d9&icon_color=00E6FE&combine_all_yearly_contributions=true" alt="Contributions"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni1225&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Hiruni1225&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF69B4&combine_all_yearly_contributions=true" alt="Contributions"/>
 </div>
 
 <br>
 
 <!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiruniHapuarachchi&bg_color=0d1117&color=00E6FE&line=00E6FE&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph"/>
-
-<!-- ============================================ -->
-<!-- ANIMATED DIVIDER -->
-<!-- ============================================ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ============================================ -->
-<!-- PINNED REPOSITORIES -->
-<!-- ============================================ -->
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"> Featured Projects
-
-</div>
-
-<div align="center">
-
-<!-- Replace with your actual repo names once you have them -->
-<a href="https://github.com/HiruniHapuarachchi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiruniHapuarachchi&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FE&icon_color=00E6FE&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/HiruniHapuarachchi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiruniHapuarachchi&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FE&icon_color=00E6FE&text_color=c9d1d9" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/HiruniHapuarachchi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiruniHapuarachchi&repo=your-repo-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FE&icon_color=00E6FE&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/HiruniHapuarachchi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiruniHapuarachchi&repo=your-repo-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E6FE&icon_color=00E6FE&text_color=c9d1d9" />
-</a>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiruni1225&bg_color=0d1117&color=FF69B4&line=FF69B4&point=c9d1d9&area=true&hide_border=true&custom_title=Hiruni's%20Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph"/>
 
 <!-- ============================================ -->
 <!-- ANIMATED DIVIDER -->
@@ -448,7 +421,7 @@ console.log(hiruni.motto());
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Current Mission
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 🎯 Current Mission
 
 </div>
 
@@ -466,14 +439,13 @@ console.log(hiruni.motto());
 - 🤖 Machine Learning Foundations
 - 🎨 Polished UI/UX Systems
 - 📱 Mobile-Friendly Full-Stack Apps
-- 🔐 Web Security Best Practices
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/> **Reading & Research:**
 - 📚 Clean Code & Design Patterns
 - 🎯 Scalable System Design
-- 💡 Software Architecture Principles
+- 💡 Software Architecture
 
 </td>
 <td width="50%" valign="top">
@@ -494,7 +466,6 @@ console.log(hiruni.motto());
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"/> **Contributing To:**
 - 🌟 Open-Source Communities
 - 📚 Technical Documentation
-- 🎓 Educational Tech Content
 - 💻 Code Reviews & Peer Mentoring
 
 </td>
@@ -508,12 +479,49 @@ console.log(hiruni.motto());
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- CONNECT & COLLABORATE -->
+<!-- FEATURED PROJECTS -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60"> Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"> 🌟 Featured Projects
+
+</div>
+
+<div align="center">
+
+<!-- Replace with your actual repos when ready -->
+<a href="https://github.com/Hiruni1225">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiruni1225&repo=MERN-ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Hiruni1225">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiruni1225&repo=task-manager-api&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Hiruni1225">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiruni1225&repo=portfolio-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Hiruni1225">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiruni1225&repo=weather-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<!-- ============================================ -->
+<!-- ANIMATED DIVIDER -->
+<!-- ============================================ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ============================================ -->
+<!-- LET'S CONNECT -->
+<!-- ============================================ -->
+
+<div align="center">
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60"> 🤝 Let's Connect!
 
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="400" alt="Connect">
 
@@ -525,11 +533,14 @@ console.log(hiruni.motto());
   <a href="https://linkedin.com/in/hirunihapuarachchi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:hiruni1225@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2"/>
   </a>
 </p>
 
@@ -538,23 +549,23 @@ console.log(hiruni.motto());
 ### 💼 Open to Opportunities
 
 ```javascript
-const opportunities = {
+const hiruniOpportunities = {
     internship: {
         status: "✅ Actively Seeking",
-        roles: ["Software Engineering Intern", "Full-Stack Developer Intern"],
+        roles: ["Software Engineer Intern", "Full-Stack Developer Intern"],
         location: "Remote / Hybrid / Sri Lanka"
     },
     
     collaboration: {
         status: "✅ Always Open",
         types: ["Open Source", "Hackathons", "Innovative Projects"],
-        passion: "Building impactful software"
+        passion: "Building impactful software with amazing teams"
     },
     
     mentorship: {
         giving: "✅ Happy to help juniors",
         receiving: "✅ Eager to learn from seniors",
-        topics: ["MERN Stack", "Career Start", "Web Dev"]
+        topics: ["MERN Stack", "Starting in Tech", "Web Development"]
     }
 };
 
@@ -575,18 +586,22 @@ console.log("📧 Let's build something amazing together!");
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40"> Daily Dev Inspiration
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="40"> 💫 Daily Dev Inspiration
 
 <br>
 
 <!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" alt="Dev Quote"/>
 
 <br><br>
 
-<!-- Your Original Quote -->
+<!-- Your Original Quote - Centered & Beautiful -->
 <p align="center">
-  <b>✨ Code with purpose. Build with passion. Grow without limits. ✨</b>
+  <b>
+    <span style="color: #FF69B4; font-size: 1.2rem;">
+      ✨ Code with purpose. Build with passion. Grow without limits. ✨
+    </span>
+  </b>
 </p>
 
 </div>
@@ -598,40 +613,14 @@ console.log("📧 Let's build something amazing together!");
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- CONTRIBUTION SNAKE ANIMATION -->
+<!-- FUN CORNER - GIRL WHO CODES -->
 <!-- ============================================ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> Contribution Snake
-
-<br>
-
-<!-- 
-  IMPORTANT: To enable this, you need to set up a GitHub Action. 
-  For now, it's a placeholder. Remove or uncomment when ready.
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiruniHapuarachchi/HiruniHapuarachchi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiruniHapuarachchi/HiruniHapuarachchi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HiruniHapuarachchi/HiruniHapuarachchi/output/github-contribution-grid-snake.svg">
-</picture>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> 🎀 Behind the Code
 
 </div>
-
-<!-- ============================================ -->
-<!-- ANIMATED DIVIDER -->
-<!-- ============================================ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ============================================ -->
-<!-- FUN FACTS & STATS -->
-<!-- ============================================ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Behind the Code
 
 <br>
 
@@ -644,26 +633,27 @@ console.log("📧 Let's build something amazing together!");
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="200">
 
 ```javascript
-const productivity = {
-    coffee: "☕️ Essential API",
-    favoriteTime: "Late Night Debugging",
-    playlist: "Lo-fi / Synthwave",
-    editor: "VS Code (Dark+ Default)"
+const hiruniVibes = {
+    coffee: "☕️ Flat White, no sugar",
+    music: "Lo-fi / Indie / Synthwave",
+    editor: "VS Code (Palenight Theme)",
+    mood: "Debug mode: ON 🐛"
 };
 ```
 
 </td>
 <td width="50%" align="center">
 
-### 🐛 Bug Hunter
+### 🦋 Debugging Style
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 
 ```javascript
-const debugging = {
-    mindset: "It's a feature, not a bug",
-    strategy: "console.log() is my best friend",
-    result: "Undocumented features 🎉"
+const debugQueen = {
+    motto: "It's not a bug, it's a feature ✨",
+    weapon: "console.log() forever",
+    victory: "Undocumented success 🎉",
+    energy: "Powered by curiosity 🔋"
 };
 ```
 
@@ -673,11 +663,14 @@ const debugging = {
 
 <br>
 
-### 🎯 Quick Dev Stats
+<div align="center">
 
-<img src="https://img.shields.io/badge/Focus-MERN_Stack-00E6FE?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/Status-Intern_%40_SLT_Mobitel-00E6FE?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/Motto-Learn_Deeply_Build_Boldly-00E6FE?style=for-the-badge&labelColor=1e1e2e"/>
+### 🎯 Quick Stats
+
+<img src="https://img.shields.io/badge/Focus-MERN_Stack-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Status-Intern_@_SLT_Mobitel-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Vibe-Code_%7C_Coffee_%7C_Create-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Motto-Learn_Deeply_Build_Boldly-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
 
 </div>
 
@@ -688,7 +681,35 @@ const debugging = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ============================================ -->
-<!-- FOOTER -->
+<!-- CONTRIBUTION SNAKE - Hiruni1225 -->
+<!-- ============================================ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> 🐍 Contribution Snake
+
+<br>
+
+<!-- 
+  To enable this, you need to set up a GitHub Action.
+  Once set up, it will auto-generate your snake animation!
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiruni1225/Hiruni1225/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiruni1225/Hiruni1225/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hiruni1225/Hiruni1225/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<!-- ============================================ -->
+<!-- ANIMATED DIVIDER -->
+<!-- ============================================ -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ============================================ -->
+<!-- FOOTER - GIRL POWER SIGNATURE -->
 <!-- ============================================ -->
 
 <div align="center">
@@ -702,23 +723,30 @@ const debugging = {
 
 ### ⚡ Thanks for Visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E6FE&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by!+⭐;Let's+build+something+awesome!+🚀;Always+open+to+collaboration!+🤝;Happy+Coding!+💻✨" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by!+⭐;Let's+build+something+awesome!+🚀;Always+open+to+collaboration!+🤝;Happy+Coding!+💻✨" alt="Footer Typing"/>
 
 <br>
 
 ```javascript
-const farewell = {
-    message: "Code. Learn. Build. Repeat. 🔄",
-    status: "Always coding, always growing! 💪"
+const hiruniSignOff = {
+    message: "Code. Coffee. Create. Repeat. 🔄",
+    status: "Building the future, one commit at a time 💪",
+    sign: "✨ Hiruni ✨"
 };
 
-console.log("See you in the code! 👋");
+console.log("See you in the code! 👩🏽‍💻");
 ```
 
 <br>
 
+<!-- Made with Love Badge -->
+<img src="https://img.shields.io/badge/Made%20with-❤️%20&%20☕-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Powered%20by-Curiosity%20&%20Courage-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+
+<br><br>
+
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,11,17,24&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,11,17,24,25&height=120&section=footer&animation=twinkling"/>
 
 </div>
 
@@ -727,9 +755,9 @@ console.log("See you in the code! 👋");
 <!-- ============================================ -->
 
 <div align="center">
-  <sub>⭐️ From [HiruniHapuarachchi](https://github.com/HiruniHapuarachchi) with 💜 | Last Updated: 2025</sub>
+  <sub>⭐️ From <a href="https://github.com/Hiruni1225">Hiruni1225</a> with 💜 | Last Updated: 2025</sub>
 </div>
 
 <!-- ============================================ -->
-<!-- END OF PROFILE -->
+<!-- END OF PROFILE - HIRUNI1225 -->
 <!-- ============================================ -->
