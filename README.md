@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,11,17,24,25&height=280&section=header&text=Hiruni%20Hapuarachchi&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20MERN%20Stack%20Developer%20•%20SLT-Mobitel%20Intern&descAlignY=55&descSize=18&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,11,17,24,25&height=280&section=header&text=Hiruni%20Hapuarachchi&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20•%20MERN%20Stack%20Developer%20•%20SLT-Mobitel%20Intern&descAlignY=55&descSize=18&descAlign=50"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/6f/1b/7f/6f1b7f71eb6af37ef522f65220d2a2c1.gif" width="400" alt="Girl coding"/>
+<img src="https://i.pinimg.com/originals/5a/2c/35/5a2c35c8f43ae357be096e4d389a4e48.gif" width="600" alt="Girl coding at night"/>
 
 <br><br>
 
@@ -16,13 +16,11 @@
   <img src="https://img.shields.io/github/stars/Hiruni1225?label=Total%20Stars&style=for-the-badge&color=FF69B4&logo=github&labelColor=1e1e2e" alt="Stars"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN_Architect-💻-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/Problem_Solver-🧩-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/Open_Source-❤️-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/Always_Learning-📚-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
-  <img src="https://img.shields.io/badge/Girl_Who_Codes-👧🏽-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
-</p>
+<img src="https://img.shields.io/badge/MERN_Architect-💻-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Problem_Solver-🧩-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Open_Source-❤️-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Always_Learning-📚-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Girl_Who_Codes-👧🏽-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
 
 </div>
 
@@ -34,6 +32,7 @@
 
 </div>
 
+```typescript
 class SoftwareEngineer {
     name: string = "Hiruni Hapuarachchi";
     username: string = "Hiruni1225";
@@ -81,6 +80,7 @@ class SoftwareEngineer {
 
 const hiruni = new SoftwareEngineer();
 console.log(hiruni.motto());
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -123,9 +123,9 @@ console.log(hiruni.motto());
 • Building mobile-responsive web apps  
 • Agile/Scrum team collaboration  
 • Debugging, testing & code reviews  
-• CI/CD pipeline implementation  
-• Microservices architecture  
-• API gateway integration  
+• API integration & documentation  
+• Performance optimization  
+• Cross-functional team coordination  
 
 </td>
 </tr>
@@ -152,10 +152,10 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&labelColor=282A36"/>
 </p>
@@ -174,15 +174,27 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=282A36"/>
 </p>
+
+**🧩 Concepts I Master:**
+
+<p>
+  <img src="https://img.shields.io/badge/Responsive_Design-FF69B4?style=flat-square&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Component_Driven-FF69B4?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State_Management-FF69B4?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance_Optimization-FF69B4?style=flat-square&logo=speedtest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Progressive_Web_Apps-FF69B4?style=flat-square&logo=pwa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Animations-FF69B4?style=flat-square&logo=lottie&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cross_Browser_Compatibility-FF69B4?style=flat-square&logo=internetexplorer&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200">
 
 </div>
 
@@ -194,22 +206,15 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=282A36"/>
 </p>
-
-</div>
-
-<div align="center">
-
-### 🗄️ Databases & Storage
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282A36"/>
@@ -218,11 +223,40 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&labelColor=282A36"/>
+</p>
+
+**🧠 My Skills:**
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-FF69B4?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auth_&_Authorization-FF69B4?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-FF69B4?style=flat-square&logo=model&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF69B4?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Schema_Design-FF69B4?style=flat-square&logo=diagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Query_Optimization-FF69B4?style=flat-square&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-FF69B4?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Gateway-FF69B4?style=flat-square&logo=amazonapigateway&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200">
+
+</div>
+
+<div align="center">
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=282A36"/>
 </p>
 
 </div>
@@ -238,8 +272,7 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=282A36"/>
@@ -248,39 +281,49 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=282A36"/>
 </p>
 
+**🚀 Hands-on With:**
+
+<p>
+  <img src="https://img.shields.io/badge/Hosting_&_Deployment-FF69B4?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containerization-FF69B4?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD_Pipelines-FF69B4?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-FF69B4?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Monitoring-FF69B4?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200">
+
 </div>
 
 <div align="center">
 
-### 🤖 AI, Data & Machine Learning
+### 🤖 AI, Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=282A36"/>
 </p>
 
-</div>
-
-<div align="center">
-
-### 📱 Mobile Development
+**📈 Exposure To:**
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-FF69B4?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML_Fundamentals-FF69B4?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF69B4?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF69B4?style=flat-square&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-FF69B4?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-FF69B4?style=flat-square&logo=openai&logoColor=white"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="200">
 
 </div>
 
@@ -291,14 +334,26 @@ console.log(hiruni.motto());
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white&labelColor=282A36"/>
 </p>
+
+**🎯 Focus:**
+
+<p>
+  <img src="https://img.shields.io/badge/Clean_Interfaces-FF69B4?style=flat-square&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/User_Centered_Design-FF69B4?style=flat-square&logo=personio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Consistency-FF69B4?style=flat-square&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prototyping-FF69B4?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX_Research-FF69B4?style=flat-square&logo=userresearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design_Systems-FF69B4?style=flat-square&logo=design&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
 
 </div>
 
@@ -316,10 +371,21 @@ console.log(hiruni.motto());
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=282A36"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white&labelColor=282A36"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=282A36"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=282A36"/>
+</p>
+
+**🛠️ Workflow:**
+
+<p>
+  <img src="https://img.shields.io/badge/Git_Based_Collab-FF69B4?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Testing-FF69B4?style=flat-square&logo=insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile_Scrum-FF69B4?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unit_Testing-FF69B4?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code_Review-FF69B4?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Continuous_Integration-FF69B4?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 
 </div>
@@ -347,8 +413,8 @@ console.log(hiruni.motto());
 - 🎨 Polished UI/UX Systems
 - 📱 Mobile-Friendly Full-Stack Apps
 - 🔐 Cybersecurity Best Practices
-- 📊 Big Data Technologies
-- ⚡ System Design & Scalability
+- 🚀 Microservices Architecture
+- 📊 Data Structures & Algorithms
 
 <br>
 
@@ -356,8 +422,7 @@ console.log(hiruni.motto());
 - 📚 Clean Code & Design Patterns
 - 🎯 Scalable System Design
 - 💡 Software Architecture
-- 📈 Algorithm Optimization
-- 🔄 DevOps Culture
+- 🔧 Performance Optimization
 
 </td>
 <td width="50%" valign="top">
@@ -372,9 +437,8 @@ console.log(hiruni.motto());
 - 🤝 Open-Source Contributions
 - 🌐 Full-Stack Web Platforms
 - 🔧 Developer Utility Tools
-- 📊 Data Visualization Dashboards
-- 🛒 E-commerce Platforms
 - 📱 Cross-Platform Mobile Apps
+- 🛒 E-commerce Solutions
 
 <br>
 
@@ -382,8 +446,7 @@ console.log(hiruni.motto());
 - 🌟 Open-Source Communities
 - 📚 Technical Documentation
 - 💻 Code Reviews & Peer Mentoring
-- 🎓 Educational Content
-- 🐛 Bug Fixes & Feature Requests
+- 🎓 Educational Content Creation
 
 </td>
 </tr>
@@ -418,7 +481,7 @@ console.log(hiruni.motto());
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A"/>
@@ -429,10 +492,11 @@ console.log(hiruni.motto());
 
 ### 💼 Open to Opportunities
 
+```javascript
 const hiruniOpportunities = {
     internship: {
         status: "✅ Actively Seeking",
-        roles: ["Software Engineer", "Full-Stack Developer"],
+        roles: ["Software Engineer Intern", "Full-Stack Developer Intern"],
         location: "Remote / Hybrid / Sri Lanka"
     },
     
@@ -445,17 +509,17 @@ const hiruniOpportunities = {
     mentorship: {
         giving: "✅ Happy to help juniors",
         receiving: "✅ Eager to learn from seniors",
-        topics: ["MERN Stack", "Starting in Tech", "Web Development", "Career Growth"]
+        topics: ["MERN Stack", "Starting in Tech", "Web Development"]
     },
     
     freelance: {
         status: "✅ Available for select projects",
-        expertise: ["Web Development", "UI Implementation", "API Integration"],
-        rate: "Negotiable"
+        expertise: ["Web Development", "UI Implementation", "API Integration"]
     }
 };
 
 console.log("📧 Let's build something amazing together!");
+```
 
 </div>
 
@@ -467,9 +531,7 @@ console.log("📧 Let's build something amazing together!");
 
 <br>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" alt="Dev Quote"/>
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" alt="Dev Quote"/>
 
 <br><br>
 
@@ -501,14 +563,16 @@ console.log("📧 Let's build something amazing together!");
 
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="200">
 
+```javascript
 const hiruniVibes = {
     coffee: "☕️ Flat White, no sugar",
     music: "Lo-fi / Indie / Synthwave",
     editor: "VS Code (Palenight Theme)",
     mood: "Debug mode: ON 🐛",
-    snack: "Dark chocolate 🍫",
-    setup: "Mechanical keyboard + noise cancelling 🎧"
+    setup: "MacBook Pro + 2 Monitors",
+    snack: "Dark chocolate 🍫"
 };
+```
 
 </td>
 <td width="50%" align="center">
@@ -517,14 +581,16 @@ const hiruniVibes = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 
+```javascript
 const debugQueen = {
     motto: "It's not a bug, it's a feature ✨",
     weapon: "console.log() forever",
     victory: "Undocumented success 🎉",
     energy: "Powered by curiosity 🔋",
-    hours: "2AM energy hits different",
-    backup: "Stack Overflow 🆘"
+    weakness: "Off-by-one errors 😅",
+    superpower: "Stack Overflow speed run"
 };
+```
 
 </td>
 </tr>
@@ -540,7 +606,8 @@ const debugQueen = {
 <img src="https://img.shields.io/badge/Status-Intern_@_SLT_Mobitel-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
 <img src="https://img.shields.io/badge/Vibe-Code_%7C_Coffee_%7C_Create-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
 <img src="https://img.shields.io/badge/Motto-Learn_Deeply_Build_Boldly-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
-<img src="https://img.shields.io/badge/Coffee_Level-☕☕☕☕☕-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Years_Coding-2+-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/badge/Projects-15+-FF69B4?style=for-the-badge&labelColor=1e1e2e"/>
 
 </div>
 
@@ -554,6 +621,7 @@ const debugQueen = {
 
 <br>
 
+```javascript
 const hiruniSignOff = {
     message: "Code. Coffee. Create. Repeat. 🔄",
     status: "Building the future, one commit at a time 💪",
@@ -561,6 +629,7 @@ const hiruniSignOff = {
 };
 
 console.log("See you in the code! 👩🏽‍💻");
+```
 
 <br>
 
