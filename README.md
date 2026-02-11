@@ -435,7 +435,7 @@ console.log(hiruni.motto());
 const hiruniOpportunities = {
     internship: {
         status: "✅ Actively Seeking",
-        roles: ["Software Engineer Intern", "Full-Stack Developer Intern"],
+        roles: ["Software Engineer", "Full-Stack Developer"],
         location: "Remote / Hybrid / Sri Lanka"
     },
     
@@ -584,5 +584,5 @@ console.log("See you in the code! 👩🏽‍💻");
 </div>
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/Hiruni1225">Hiruni1225</a> with 💜 | Last Updated: 2025</sub>
+  <sub>⭐️ From <a href="https://github.com/Hiruni1225">Hiruni1225</a> with 💜 | Last Updated: 2026</sub>
 </div>
